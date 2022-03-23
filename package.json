@@ -1,0 +1,15 @@
+{
+  "name": "node-scss",
+  "version": "1.0.0",
+  "description": "how to use node scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-sass -o css scss"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
